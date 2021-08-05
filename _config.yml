@@ -2,4 +2,5 @@
 name: K00kSec
 description: git gud
 url: 'https://k00ksec.github.io/'
+markdown: kramdown
 theme: jekyll-theme-midnight
