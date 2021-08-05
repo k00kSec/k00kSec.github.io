@@ -1,1 +1,5 @@
+#jekyll config
+name: K00kSec
+description: git gud
+url: 'https://k00ksec.github.io/'
 theme: jekyll-theme-midnight
