@@ -1,1 +1,2 @@
-This is a work in progress for a kind of blog
+Welcome to a repository for a bl0g
+
