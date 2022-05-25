@@ -26,13 +26,8 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
 
-defaults:
-        -scope:
-                path: _posts
-                type: posts
-
 # Build settings
-remote-theme: pages-themes/cayman@v0.2.0
+remote-theme: minima
 plugins:
   - jekyll-remote-theme
   - jekyll-feed
