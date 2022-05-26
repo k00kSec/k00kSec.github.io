@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: home 
 ---
 
 # We're doing it live
